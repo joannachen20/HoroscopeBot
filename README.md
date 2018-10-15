@@ -1,6 +1,7 @@
 # HoroscopeBot
 
-HoroscopeBot is a Twitter bot.
+HoroscopeBot is a Twitter bot created using Node.js.
 
 Functionality:
-- Tweets daily Horoscope moods and readings for every sign
+- Pulls from Third-Party Astrology API
+- Posts daily tweets of Horoscope moods and readings for every sign
